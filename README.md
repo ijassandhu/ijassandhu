@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm jaskeerat singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijassandhu&label=Profile%20views&color=0e75b6&style=flat" alt="ijassandhu" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijassandhu" alt="ijassandhu" /></a> </p>
 
 - 🌱 I’m currently learning **Mern stack**
@@ -11,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ijassandhu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ijassandhu_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaskeerat-singh-77b3b3260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaskeerat-singh-77b3b3260/" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/ijassandhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/ijassandhu/" height="30" width="40" /></a>
+<a href="https://instagram.com/ijassandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ijassandhu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
