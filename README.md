@@ -27,7 +27,6 @@ Python • LLM APIs • Hugging Face • Gradio • LangChain • Vector Databas
 
 ## 🤝 Open To
 
-* AI internships
 * Open source collaboration
 * Freelance AI projects
 
