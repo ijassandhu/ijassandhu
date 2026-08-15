@@ -11,7 +11,7 @@ AI Engineer focused on building **practical AI applications and multimodal syste
 
 ## 🧠 Tech Stack
 
-Python • LLM APIs • Hugging Face • Gradio • LangChain • LangGraph • Vector Databases • Speech-to-Text • Text-to-Speech • Computer Vision • n8n • docker • Vapi • ElevenLabs
+Python • LLM APIs • Hugging Face • Gradio • LangChain • LangGraph • Vector Databases • Speech-to-Text • Text-to-Speech • Computer Vision • n8n • docker • Vapi • ElevenLabs • PostgreSQL
 
 ## 🧪 Projects
 
